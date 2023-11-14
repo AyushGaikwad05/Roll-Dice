@@ -8,7 +8,7 @@ class StyledText extends StatelessWidget {
     return Text(
       text,
       style: const TextStyle(
-        color: Colors.white, // Set text color to contrast with the gradient
+        color: Colors.red, // Set text color to contrast with the gradient
         fontSize: 20.0, // Adjust font size as needed
         fontWeight: FontWeight.bold, // Adjust font weight as needed
       ),
